@@ -1,2 +1,2 @@
 # tindog-website
-A website made with HTML and CSS with Bootstrap5 for a made-up application called TinDog as part of a web development course
+A website made with HTML and CSS with Bootstrap5 for a made-up application called TinDog.
